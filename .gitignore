@@ -1,0 +1,63 @@
+# Minecraft Specific
+*.mcpack
+*.mcaddon
+*.zip
+*.rar
+*.7z
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.vs
+*.sln
+*.csproj
+
+# OS Files
+.DS_Store
+Thumbs.db
+.windows-build-tools
+
+# Node Modules (if using node-based tools)
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Build Output
+dist/
+build/
+out/
+
+# Temporary Files
+*.tmp
+*.temp
+*.log
+
+# Backup Files
+*.bak
+*.backup
+*~
+
+# Environment Files
+.env
+.env.local
+.env.*.local
+
+# Testing
+test-results/
+coverage/
+
+# Personal Notes
+notes.md
+personal/
+
+# World Files (optional - uncomment if needed)
+# worlds/
+# *.dat
+# *.dat_old
+
+# Cache
+.cache/
+__pycache__/
+*.pyc

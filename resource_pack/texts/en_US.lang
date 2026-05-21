@@ -1,0 +1,33 @@
+# Tongkat Ajaib - English Language File
+
+item.tongkat:ajaib.name=§6✨ Tongkat Ajaib ✨
+
+# Menu Titles
+menu.tongkat.title=§6✨ TONGKAT AJAIB ✨
+menu.duplicate.title=§a📋 DUPLIKASI ITEM
+menu.copy.title=§b🔍 SALIN
+menu.storage.title=§c🎒 PENYIMPANAN
+menu.help.title=§d📖 BANTUAN
+
+# Button Labels
+button.duplicate_all=§bSemua Item\n§7Duplikasi seluruh inventory
+button.duplicate_held=§cItem Yang Dipegang\n§7Hanya item di tangan
+button.copy_target=§bSalin Target\n§7Salin dari dunia
+button.save_held=§bSimpan Item yang Dipegang\n§7Tambah ke penyimpanan
+button.save_all=§bSimpan Semua\n§7Pindahkan semua inventory
+button.retrieve=§cAmbil Item\n§7Lihat penyimpanan
+button.back=§eKembali
+button.close=§e❌ Tutup
+button.help=§d📖 Bantuan
+
+# Messages
+message.duplicate_success=§a✓ Item berhasil diduplikasi!
+message.copy_success=§a✓ Salinan dibuat dan ditambahkan ke inventory!
+message.save_success=§a✓ Item disimpan!
+message.retrieve_success=§a✓ Item diambil!
+message.offhand_moved=§b→ Tongkat dipindahkan ke Offhand!
+message.no_item=§c✗ Tidak ada item di tangan!
+message.storage_full=§c✗ Penyimpanan penuh!
+message.storage_empty=§c✗ Penyimpanan kosong!
+message.no_target=§c✗ Tidak ada target di pandangan Anda!
+message.tongkat_given=§6✨ Tongkat Ajaib diberikan! Klik kanan untuk buka menu.

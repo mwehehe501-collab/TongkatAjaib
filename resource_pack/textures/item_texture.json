@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "Tongkat Ajaib",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "tongkat_ajaib": {
+      "textures": "textures/items/tongkat_ajaib"
+    }
+  }
+}

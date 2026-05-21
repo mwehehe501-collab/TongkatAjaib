@@ -1,0 +1,20 @@
+BASE64_TEXTURE_DATA_PLACEHOLDER
+
+=== CARA MEMBUAT TEXTURE ===
+
+1. Buat file PNG 16x16 atau 32x32 pixel dengan design tongkat
+2. Warna yang disarankan:
+   - Warna utama: Emas (#FFD700) atau Ungu (#9933FF)
+   - Highlight: Putih (#FFFFFF) untuk cahaya ajaib
+   - Shadow: Hitam (#000000) untuk detail
+
+3. Design tips:
+   - Puncak tongkat: Pointer/bintang
+   - Tangkai: Garis vertical dengan spiral
+   - Efek: Tambahkan glow atau sparkle
+
+4. Convert ke Base64:
+   - Online: https://www.base64-image.de/
+   - Atau gunakan tool lokal
+
+5. Replace 'BASE64_TEXTURE_DATA_PLACEHOLDER' dengan data Base64 Anda
